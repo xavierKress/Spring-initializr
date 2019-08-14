@@ -24,5 +24,6 @@ This is just a project build by Spring Initializr with
 - We broke that problem by adding mapping information using annotations (2.0.1)
 - We added two crud repositories interfaces for our model classes and added a bootstrap class to inject data at application launch (using component annotation and 
 onApplicationEvent method with contextRefreshEvent object parameter) (2.1.0)
-- We added a new Publisher class with a OneToMany relation on Books (2.2.0)
+- We added a new Publisher class with a OneToMany relation on Books  (exercice) (2.2.0)
 - We added an MVC structure to display books in a HTML page (2.3.0)
+- We added a new Authors list (exercice) (2.4.0)
